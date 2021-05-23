@@ -1,7 +1,7 @@
 {
-  "name": "node-express-mongodb-bezkoder",
+  "name": "node-express-mongodb-ghlinked-bezkoder",
   "version": "1.0.0",
-  "description": "",
+  "description": "zz-_20-_y21-0523-1504",
   "main": "server.js",
   "scripts": {
     "start": "node api/server.js",
